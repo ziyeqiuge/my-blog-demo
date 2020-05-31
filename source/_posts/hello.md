@@ -4,8 +4,8 @@
   tags:
     - 标签1
     - 标签2
-categories:
-  - 生活
+  categories:
+    - 生活
 ---
 <!-- ↑文章的配置,YAML 语法 -->
 
